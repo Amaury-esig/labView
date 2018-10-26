@@ -1,0 +1,5 @@
+Nb station		Anémomètre		Pluviomètre		Girouette		JOUR/NUIT		temperature	Alarme
+0 	 	 	0,279400 	 	 0 	 		 N-E			Nuit 			25		alarme vent
+8 	 	 	16,800000 	 	 0,279400 	 	 0 	 	 	Nuit 			25		aucune alarme
+4 	 	 	9,600000 	 	 50,419100 	 	 0 	 		Nuit 			25		alarme pluie
+
